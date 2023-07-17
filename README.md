@@ -23,8 +23,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:
 
-
-
+https://felipepetriw.github.io/Projeto_X-Men/
 
 ## 📝 Licença
 
